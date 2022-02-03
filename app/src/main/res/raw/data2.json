@@ -1,0 +1,488 @@
+[
+  {
+    "8급.txt": [
+      {
+        "title": "校",
+        "radical": "木 (나무목, 4획)",
+        "mean": "학교 교",
+        "writeCount": "10획",
+        "img": "u6821"
+      },
+      {
+        "title": "敎",
+        "radical": "攵 [攴] (등글월문2, 4획)",
+        "mean": "가르칠 교",
+        "writeCount": "11획",
+        "img": "u654e"
+      },
+      {
+        "title": "九",
+        "radical": "⺄ [乙,乛,乚] (새을4, 1획)",
+        "mean": "아홉 구, 모을 규",
+        "writeCount": "2획",
+        "img": "u4e5d"
+      },
+      {
+        "title": "國",
+        "radical": "囗 (큰입구몸, 3획)",
+        "mean": "나라 국",
+        "writeCount": "11획",
+        "img": "u570b"
+      },
+      {
+        "title": "軍",
+        "radical": "車 [车] (수레거, 7획)",
+        "mean": "군사 군",
+        "writeCount": "9획",
+        "img": "u8ecd"
+      },
+      {
+        "title": "金",
+        "radical": "金 [钅] (쇠금, 8획)",
+        "mean": "성씨 김, 쇠 금",
+        "writeCount": "8획",
+        "img": "u91d1"
+      },
+      {
+        "title": "南",
+        "radical": "十 (열십, 2획)",
+        "mean": "남녘 남, 나무 나",
+        "writeCount": "9획",
+        "img": "u5357"
+      },
+      {
+        "title": "女",
+        "radical": "女 (여자녀, 3획)",
+        "mean": "여자 녀(여), 너 여",
+        "writeCount": "3획",
+        "img": "u5973"
+      },
+      {
+        "title": "年",
+        "radical": "干 (방패간, 3획)",
+        "mean": "해 년(연), 아첨할 녕(영)",
+        "writeCount": "6획",
+        "img": "u5e74"
+      },
+      {
+        "title": "大",
+        "radical": "大 (큰대, 3획)",
+        "mean": "클 대/큰 대, 클 태",
+        "writeCount": "3획",
+        "img": "u5927"
+      },
+      {
+        "title": "東",
+        "radical": "木 (나무목, 4획)",
+        "mean": "동녘 동",
+        "writeCount": "8획",
+        "img": "u6771"
+      }
+    ]
+  },
+  {
+    "준7급.txt": [
+      {
+        "title": "家",
+        "radical": "宀 (갓머리, 3획)",
+        "mean": "집 가, 여자 고",
+        "writeCount": "10획",
+        "img": "u5bb6"
+      },
+      {
+        "title": "間",
+        "radical": "門 [门] (문문, 8획)",
+        "mean": "사이 간",
+        "writeCount": "12획",
+        "img": "u9593"
+      },
+      {
+        "title": "江",
+        "radical": "氵 [水,氺] (삼수변, 3획)",
+        "mean": "강 강",
+        "writeCount": "6획",
+        "img": "u6c5f"
+      },
+      {
+        "title": "車",
+        "radical": "車 [车] (수레거, 7획)",
+        "mean": "수레 차, 수레 거",
+        "writeCount": "7획",
+        "img": "u8eca"
+      },
+      {
+        "title": "工",
+        "radical": "工 (장인공, 3획)",
+        "mean": "장인 공",
+        "writeCount": "3획",
+        "img": "u5de5"
+      },
+      {
+        "title": "空",
+        "radical": "穴 (구멍혈, 5획)",
+        "mean": "빌 공",
+        "writeCount": "8획",
+        "img": "u7a7a"
+      },
+      {
+        "title": "氣",
+        "radical": "气 (기운기엄ㆍ기운기밑, 4획)",
+        "mean": "기운 기, 보낼 희",
+        "writeCount": "10획",
+        "img": "u6c23"
+      },
+      {
+        "title": "記",
+        "radical": "言 [讠] (말씀언, 7획)",
+        "mean": "기록할 기",
+        "writeCount": "10획",
+        "img": "u8a18"
+      },
+      {
+        "title": "男",
+        "radical": "田 (밭전, 5획)",
+        "mean": "사내 남",
+        "writeCount": "7획",
+        "img": "u7537"
+      },
+      {
+        "title": "內",
+        "radical": "入 (들입, 2획)",
+        "mean": "안 내, 들일 납, 장부 예",
+        "writeCount": "4획",
+        "img": "u5167"
+      },
+      {
+        "title": "農",
+        "radical": "辰 (별진, 7획)",
+        "mean": "농사 농",
+        "writeCount": "13획",
+        "img": "u8fb2"
+      }
+    ]
+  },
+  {
+    "6급.txt": [
+      {
+        "title": "感",
+        "radical": "心 [忄,㣺] (마음심, 4획)",
+        "mean": "느낄 감/한할 감",
+        "writeCount": "13획",
+        "img": "u611f"
+      },
+      {
+        "title": "強",
+        "radical": "弓 (활궁, 3획)",
+        "mean": "강할 강",
+        "writeCount": "11획",
+        "img": "u5f37"
+      },
+      {
+        "title": "開",
+        "radical": "門 [门] (문문, 8획)",
+        "mean": "열 개",
+        "writeCount": "12획",
+        "img": "u958b"
+      },
+      {
+        "title": "京",
+        "radical": "亠 (돼지해머리, 2획)",
+        "mean": "서울 경",
+        "writeCount": "8획",
+        "img": "u4eac"
+      },
+      {
+        "title": "古",
+        "radical": "口 (입구, 3획)",
+        "mean": "옛 고",
+        "writeCount": "5획",
+        "img": "u53e4"
+      },
+      {
+        "title": "苦",
+        "radical": "艹 [艸,艹,⻀] (초두머리, 3획)",
+        "mean": "쓸 고, 땅 이름 호",
+        "writeCount": "8획",
+        "img": "u82e6"
+      },
+      {
+        "title": "交",
+        "radical": "亠 (돼지해머리, 2획)",
+        "mean": "사귈 교",
+        "writeCount": "6획",
+        "img": "u4ea4"
+      },
+      {
+        "title": "區",
+        "radical": "匸 (감출혜몸, 2획)",
+        "mean": "구분할 구/지경 구, 열여섯 되들이 우",
+        "writeCount": "11획",
+        "img": "u5340"
+      },
+      {
+        "title": "郡",
+        "radical": "⻏ [邑] (우부방, 3획)",
+        "mean": "고을 군",
+        "writeCount": "10획",
+        "img": "u90e1"
+      },
+      {
+        "title": "根",
+        "radical": "木 (나무목, 4획)",
+        "mean": "뿌리 근",
+        "writeCount": "10획",
+        "img": "u6839"
+      },
+      {
+        "title": "近",
+        "radical": "辶 [辵,辶,⻎] (책받침, 3획)",
+        "mean": "가까울 근, 어조사 기",
+        "writeCount": "7획",
+        "img": "u8fd1"
+      }
+    ]
+  },
+  {
+    "7급.txt": [
+      {
+        "title": "歌",
+        "radical": "欠 (하품흠, 4획)",
+        "mean": "노래 가",
+        "writeCount": "14획",
+        "img": "u6b4c"
+      },
+      {
+        "title": "口",
+        "radical": "口 (입구, 3획)",
+        "mean": "입 구",
+        "writeCount": "3획",
+        "img": "u53e3"
+      },
+      {
+        "title": "旗",
+        "radical": "方 (모방, 4획)",
+        "mean": "기 기",
+        "writeCount": "14획",
+        "img": "u65d7"
+      },
+      {
+        "title": "同",
+        "radical": "口 (입구, 3획)",
+        "mean": "한가지 동",
+        "writeCount": "6획",
+        "img": "u540c"
+      },
+      {
+        "title": "洞",
+        "radical": "氵 [水,氺] (삼수변, 3획)",
+        "mean": "골 동, 밝을 통",
+        "writeCount": "9획",
+        "img": "u6d1e"
+      },
+      {
+        "title": "冬",
+        "radical": "⺀ [冫] (이수변2, 2획)",
+        "mean": "겨울 동/북소리 동",
+        "writeCount": "5획",
+        "img": "u51ac"
+      },
+      {
+        "title": "登",
+        "radical": "癶 (필발머리, 5획)",
+        "mean": "오를 등, 얻을 득",
+        "writeCount": "12획",
+        "img": "u767b"
+      },
+      {
+        "title": "來",
+        "radical": "人 [亻] (사람인, 2획)",
+        "mean": "올 래(내)",
+        "writeCount": "8획",
+        "img": "u4f86"
+      },
+      {
+        "title": "老",
+        "radical": "老 [耂] (늙을로, 6획)",
+        "mean": "늙을 로(노)",
+        "writeCount": "6획",
+        "img": "u8001"
+      },
+      {
+        "title": "里",
+        "radical": "里 (마을리, 7획)",
+        "mean": "마을 리(이)/속 리(이)",
+        "writeCount": "7획",
+        "img": "u91cc"
+      },
+      {
+        "title": "林",
+        "radical": "木 (나무목, 4획)",
+        "mean": "수풀 림(임)",
+        "writeCount": "8획",
+        "img": "u6797"
+      }
+    ]
+  },
+  {
+    "준6급.txt": [
+      {
+        "title": "各",
+        "radical": "口 (입구, 3획)",
+        "mean": "각각 각",
+        "writeCount": "6획",
+        "img": "u5404"
+      },
+      {
+        "title": "角",
+        "radical": "角 [⾓,𧢲] (뿔각2, 7획)",
+        "mean": "뿔 각, 사람 이름 록(녹), 꿩 우는 소리 곡",
+        "writeCount": "7획",
+        "img": "u89d2"
+      },
+      {
+        "title": "界",
+        "radical": "田 (밭전, 5획)",
+        "mean": "지경 계",
+        "writeCount": "9획",
+        "img": "u754c"
+      },
+      {
+        "title": "計",
+        "radical": "言 [讠] (말씀언, 7획)",
+        "mean": "셀 계",
+        "writeCount": "9획",
+        "img": "u8a08"
+      },
+      {
+        "title": "高",
+        "radical": "高 (높을고, 10획)",
+        "mean": "높을 고",
+        "writeCount": "10획",
+        "img": "u9ad8"
+      },
+      {
+        "title": "公",
+        "radical": "八 (여덟팔, 2획)",
+        "mean": "공평할 공",
+        "writeCount": "4획",
+        "img": "u516c"
+      },
+      {
+        "title": "共",
+        "radical": "八 (여덟팔, 2획)",
+        "mean": "한가지 공",
+        "writeCount": "6획",
+        "img": "u5171"
+      },
+      {
+        "title": "功",
+        "radical": "力 (힘력, 2획)",
+        "mean": "공 공",
+        "writeCount": "5획",
+        "img": "u529f"
+      },
+      {
+        "title": "果",
+        "radical": "木 (나무목, 4획)",
+        "mean": "실과 과, 시중들 와, 벗을 라(나), 강신제 관",
+        "writeCount": "8획",
+        "img": "u679c"
+      },
+      {
+        "title": "科",
+        "radical": "禾 (벼화, 5획)",
+        "mean": "과목 과",
+        "writeCount": "9획",
+        "img": "u79d1"
+      },
+      {
+        "title": "光",
+        "radical": "儿 (어진사람인발, 2획)",
+        "mean": "빛 광",
+        "writeCount": "6획",
+        "img": "u5149"
+      }
+    ]
+  },
+  {
+    "준5급.txt": [
+      {
+        "title": "價",
+        "radical": "亻 [人] (사람인변, 2획)",
+        "mean": "값 가",
+        "writeCount": "15획",
+        "img": "u50f9"
+      },
+      {
+        "title": "客",
+        "radical": "宀 (갓머리, 3획)",
+        "mean": "손 객",
+        "writeCount": "9획",
+        "img": "u5ba2"
+      },
+      {
+        "title": "格",
+        "radical": "木 (나무목, 4획)",
+        "mean": "격식 격, 가지 각, 마을 락(낙), 별 이름 학",
+        "writeCount": "10획",
+        "img": "u683c"
+      },
+      {
+        "title": "見",
+        "radical": "見 [见] (볼견, 7획)",
+        "mean": "볼 견, 뵈올 현, 관의 천",
+        "writeCount": "7획",
+        "img": "u898b"
+      },
+      {
+        "title": "結",
+        "radical": "糹 [糸,纟] (실사변, 6획)",
+        "mean": "맺을 결, 상투 계",
+        "writeCount": "12획",
+        "img": "u7d50"
+      },
+      {
+        "title": "決",
+        "radical": "氵 [水,氺] (삼수변, 3획)",
+        "mean": "결단할 결, 빠를 혈",
+        "writeCount": "7획",
+        "img": "u6c7a"
+      },
+      {
+        "title": "敬",
+        "radical": "攵 [攴] (등글월문2, 4획)",
+        "mean": "공경 경",
+        "writeCount": "12획",
+        "img": "u656c"
+      },
+      {
+        "title": "告",
+        "radical": "口 (입구, 3획)",
+        "mean": "고할 고, 뵙고 청할 곡, 국문할 국",
+        "writeCount": "7획",
+        "img": "u544a"
+      },
+      {
+        "title": "課",
+        "radical": "言 [讠] (말씀언, 7획)",
+        "mean": "공부할 과/과정 과",
+        "writeCount": "15획",
+        "img": "u8ab2"
+      },
+      {
+        "title": "過",
+        "radical": "辶 [辵,辶,⻎] (책받침, 3획)",
+        "mean": "지날 과, 재앙 화",
+        "writeCount": "11획",
+        "img": "u904e"
+      },
+      {
+        "title": "觀",
+        "radical": "見 [见] (볼견, 7획)",
+        "mean": "볼 관",
+        "writeCount": "24획",
+        "img": "u89c0"
+      }
+    ]
+  }
+]

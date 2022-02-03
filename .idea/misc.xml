@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.5222222222222223" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/drawable/item_shape.xml" value="0.3463541666666667" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/activity_inside.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/activity_inside1.xml" value="0.33" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/activity_inside10.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/activity_inside11.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/activity_inside12.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/activity_inside13.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/activity_inside14.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/activity_inside15.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/activity_inside2.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/activity_inside3.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/activity_inside4.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/activity_inside5.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/activity_inside6.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/activity_inside7.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/activity_inside8.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/activity_inside9.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/activity_intro.xml" value="0.25" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/activity_join.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/activity_setting.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/activity_splash.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/character_list_item.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/dialog_character.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/A3/AndroidStudioProjects/Chinesecharacters/app/src/main/res/layout/dialog_test.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

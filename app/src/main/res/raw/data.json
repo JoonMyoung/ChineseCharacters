@@ -1,0 +1,64 @@
+[
+  {
+    "class1": [
+      {
+        "title": "一",
+        "radical": "一",
+        "mean": "한 일",
+        "writeCount": "1",
+        "image": "w1"
+      },
+      {
+        "title": "二",
+        "radical": "二",
+        "mean": "두 이",
+        "writeCount": "2",
+        "image": "w2"
+      },
+      {
+        "title": "三",
+        "radical": "一",
+        "mean": "석 삼",
+        "writeCount": "3",
+        "image": "w3"
+      },
+      {
+        "title": "四",
+        "radical": "囗",
+        "mean": "넉 사",
+        "writeCount": "5",
+        "image": "w4"
+      }
+    ],
+    "class2": [
+      {
+        "title": "一",
+        "radical": "一",
+        "mean": "한 일",
+        "writeCount": "1",
+        "image": "w1"
+      },
+      {
+        "title": "一",
+        "radical": "一",
+        "mean": "한 일",
+        "writeCount": "1",
+        "image": "w1"
+      },
+      {
+        "title": "一",
+        "radical": "一",
+        "mean": "한 일",
+        "writeCount": "1",
+        "image": "w1"
+      },
+      {
+        "title": "一",
+        "radical": "一",
+        "mean": "한 일",
+        "writeCount": "1",
+        "image": "w1"
+      }
+    ]
+  }
+]

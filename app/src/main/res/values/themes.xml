@@ -1,0 +1,54 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Chinesecharacters" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/MainColor</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <!-- Customize your theme here. -->
+        <item name="colorAccent">@color/MainColor</item>
+
+    </style>
+
+    <style name="AppTheme.AlertDialogTheme" parent="ThemeOverlay.AppCompat.Dialog.Alert">
+        <item name="colorAccent">@color/MainColor</item>
+        ...
+        <!--        <item name="buttonBarButtonStyle">@style/AppTheme.AlertDialogTheme.Button</item>-->
+        <!--        <item name="buttonBarPositiveButtonStyle">@style/AppTheme.AlertDialogTheme.Button</item>-->
+        <item name="buttonBarNegativeButtonStyle">@style/AppTheme.AlertDialogTheme.Button</item>
+        <!--        <item name="buttonBarNeutralButtonStyle">@style/AppTheme.AlertDialogTheme.Button</item>-->
+    </style>
+
+    <style name="AppTheme.AlertDialogTheme.Button" parent="Widget.AppCompat.Button.ButtonBar.AlertDialog">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="EditTextStyle" parent="Widget.Design.TextInputLayout"> // important : parent 를 이것으로.
+
+        <item name="colorControlNormal">#4e4e4e</item>  // unFocus 상태일때 밑줄 색.
+        <item name="boxStrokeColor">@color/MainColor</item> // Focus 상태일때 밑줄 색.
+        <!--        <item name="android:textCursorDrawable">#2196F3</item>  // cursor 색.-->
+
+        <item name="colorAccent">@color/MainColor</item> // cursor
+
+        <item name="android:textColorHint">#4e4e4e</item>  // hint 색
+        <item name="hintTextColor">@color/MainColor</item>   // floating hint 색 (클릭시 커서색)
+
+        <!--        <item name="helperText">#2196f3</item> // xml 에서 한 속성을 여기서도 할 수 있습니다.-->
+        <!--        <item name="helperTextTextColor">#2196f3</item>-->
+
+        <item name="errorTextColor">@color/MainColor</item>
+
+    </style>
+
+
+
+
+</resources>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/MainColor2"
+    android:layout_height="match_parent"
+    tools:context=".setting.SettingActivity">
+
+    <Button
+        android:id="@+id/addDelete"
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+
+        android:text="광고제거 W2900"
+        app:layout_constraintTop_toBottomOf="@id/change"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/MainColor"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/change"
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        app:layout_constraintTop_toTopOf="parent"
+        android:text="훈음으로 보기"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/MainColor"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:visibility="gone"
+        android:id="@+id/logoutBtn"
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        app:layout_constraintTop_toBottomOf="@id/change"
+        android:text="로그아웃"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/MainColor"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tv_sku"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="설명"
+        android:visibility="gone"
+        android:textColor="@color/teal_200"
+        android:textSize="16sp"/>
+
+
+    <TextView
+        android:layout_margin="10dp"
+        android:id="@+id/tvRemoveAds"
+        app:layout_constraintTop_toBottomOf="@id/addDelete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="광고제거여부"
+        android:textColor="@color/MainColor"
+        android:textSize="20sp"/>
+    <Button
+        android:id="@+id/backBtn"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="뒤로가기"
+        android:backgroundTint="@color/MainColor"
+        android:layout_margin="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

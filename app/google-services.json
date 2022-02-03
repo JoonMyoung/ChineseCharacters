@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "430993089161",
+    "project_id": "hanja-c0304",
+    "storage_bucket": "hanja-c0304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430993089161:android:6aefacc958c1876d07dc58",
+        "android_client_info": {
+          "package_name": "com.joonmyoung.chinesecharacters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430993089161-c5643v2mqdsamj0mgetm50il6fa2i7i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0y_Yqelifdbav_KrpsOG-oXqU8aCCB2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430993089161-c5643v2mqdsamj0mgetm50il6fa2i7i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
